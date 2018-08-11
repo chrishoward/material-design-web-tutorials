@@ -1,1 +1,1 @@
-# Study-Course-Material-Design-Tutorials
+# Study-Course-Material-Design-Web-Tutorials
